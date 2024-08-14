@@ -66,7 +66,7 @@ The main logic of the chatbot is implemented in `app.py`. Here’s a brief overv
 
 ## Environment Variables
   Make sure to set the following environment variables in your .env file:
-  ```bash
+   ```bash
       LANGCHAIN_API_KEY="************"
       LANGCHAIN_PROJECT="************"
       GEN_API_KEY="***********"
