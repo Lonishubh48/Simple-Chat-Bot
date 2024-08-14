@@ -10,6 +10,7 @@ This repository contains a simple chatbot application developed using Streamlit 
 - [Usage](#usage)
 - [Code Overview](#code-overview)
 - [Environment Variables](#environment-variables)
+- [Results](#results)
 
 ## Features
 
@@ -72,4 +73,15 @@ The main logic of the chatbot is implemented in `app.py`. Here’s a brief overv
       GEN_API_KEY="***********"
       HF_TOKEN="**************"
    ```
+## Results
+
+Here are some examples of the chatbot's responses:
+
+- **User:** hi
+  - **Assistant:** Hello! How can i assit you today.
+
+- **User:** What is generative ai ?.
+  - **Assistant:** Generative Al refers to a category of artificial intelligence systems that can generate new content, such as text, images, or music..
+
+![Chatbot Results](chat bot result.jpg)  
 
